@@ -17,7 +17,7 @@ env:
   # Name of module and id separated by a slash
   INSTANCE: Writerside/overview
   # Replace HI with the ID of the instance in capital letters
-  ARTIFACT: webHelpHI2-all.zip
+  ARTIFACT: webHelpOVERVIEW2-all.zip
   # Writerside docker image version
   DOCKER_VERSION: 233.4797
   # Add the variable below to upload Algolia indexes
